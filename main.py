@@ -5,6 +5,8 @@ Monday, reviewed like a product: one star -- it arrived too early,
 stayed too long, and brought no snacks. Would not recommend, cannot
 return.
 
+A product review is the right format for Monday: it arrived, it underperformed, and there is no refund policy for weekdays.
+
 Writes the review to entry.txt inside the output directory. The
 directory comes from MAKEFUN_OUTPUT_DIR (default /output); a first
 command-line argument, if given, overrides it. The grader runs the
